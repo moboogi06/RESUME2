@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Esports Partnership Resume",
+  "description": "Interactive English 1-page resume and project portfolio for APAC Esports Partnership Manager position.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
